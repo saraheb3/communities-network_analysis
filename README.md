@@ -1,7 +1,7 @@
-========================================
+==========================================
 # communities-network_analysis
-========================================
-# implements method presented in Efficient method for estimating the number of communities in a network
+==========================================
+# This code implements the method presented in Efficient method for estimating the number of communities in a network
 # M. A. Riolo, G. T. Cantwell, G. Reinert, and M. E. J. Newman, "Efficient method for estimating the number of communities in a network," Physical Review E, vol. 96, no. 3, p. 032310, 09/14/ 2017.
 
 This code, written in C by Riolo, Cantwell, Reinert, and Newman, calculates the number of communities in an
